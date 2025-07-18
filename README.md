@@ -9,7 +9,7 @@ A responsive landing page built from a Webflow intern Figma design using HTML, C
 - Vanilla JavaScript
 
 ## 🖼️ Preview
-I will Add a Netlify link later_
+  Link - https://shubhamsilyanproject.netlify.app/
 
 ## 📁 Folder Structure
   -webflow-landing-page-clone/
@@ -22,12 +22,11 @@ I will Add a Netlify link later_
 └── README.md # Project overview and instructions
 
 ## 🚀 How to Run
-- Clone the repository
 - Open `index.html` in your browser
 
 ## 📌 Notes
 - Pixel-perfect accuracy as per design
-- Mobile-first responsive design
+- Responsive design
 - No external libraries used
 
 ## 📄 License
